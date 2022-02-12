@@ -1,2 +1,1 @@
-
-:~$I’m beginner Python developer
+I’m a beginner pythoneer
