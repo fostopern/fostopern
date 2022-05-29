@@ -1,1 +1,1 @@
-I’m a beginner pythoneer
+trying to code
